@@ -17,9 +17,9 @@ The app was made using MIT App Inventor blocks and design
 
 ![alt text](<https://i.postimg.cc/nL97zZh1/2021-02-01-12-35-50.png>)
 
-# Connecting stepper motor to hose split
+# Connecting stepper motor to hose splitter
 This part was made to make sure that only the plants that need water will get it.(let's say part of the plants need less water or exposed less to the sun.)
-The connection was made by a screwdriver, Coca-Cola cork and a hard electricity wires.
+The connection was made by a screwdriver, Coca-Cola cork and hard electricity wires.
 
 ![alt text](<https://i.postimg.cc/qBwtpgGT/Whats-App-Image-2021-01-03-at-15-30-02.jpg>)
 
