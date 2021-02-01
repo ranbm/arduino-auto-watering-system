@@ -7,7 +7,7 @@ Arduino project for plant watering by humidity levels, that includes a phone app
 2X ground humidity sensor                                                                                                                                                    
 1X air humidity and temperature sensor                                                                                                            
 1X solenoid valve                                                                                                                                                                  
-1X Ldr light sensor
+1X Ldr light sensor                                                                                                                                                                
 1X Stepper motor                                                                                                                                                                  
 1X HC-05 bluetooth module                                                                                                            
 1X Relay                                                                                                                                                                  
