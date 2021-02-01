@@ -1,4 +1,4 @@
-# arduino_auto_watering_system
+# Arduino auto watering system
 Arduino project for plant watering by humidity levels, that includes a phone app that is connected by bluetooth
 # Circuit skatch:
 ![alt text](<https://www.linkpicture.com/q/צילום-מסך-2021-02-01-ב-12.24.39.png>)
@@ -25,6 +25,6 @@ The connection was made by a screwdriver, Coca-Cola cork and a hard electricity 
 
 
 # Project summery:
-The plant watering can be fully automatic, It works on ground humidity and light exposher.
+The plant watering can be fully automatic, It works on ground humidity and light exposure.
 If the ground is dry and it's night time, The system will be activate.
 The android app is a way to pass the automatic system and water the plants when ever you like to.
