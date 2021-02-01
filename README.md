@@ -4,13 +4,13 @@ Arduino project for plant watering by humidity levels, that includes a phone app
 ![alt text](<https://www.linkpicture.com/q/צילום-מסך-2021-02-01-ב-12.24.39.png>)
 
 # Components:
-2X ground humidity sensor
-1X air humidity and temperature sensor
-1X solenoid valve
+2X ground humidity sensor                                                                                                                                                    
+1X air humidity and temperature sensor                                                                                                            
+1X solenoid valve                                                                                                                                                                  
 1X Ldr light sensor
-1X Stepper motor
-1X HC-05 bluetooth module
-1X Relay
+1X Stepper motor                                                                                                                                                                  
+1X HC-05 bluetooth module                                                                                                            
+1X Relay                                                                                                                                                                  
 
 # App development:
 The app was made using MIT App Inventor blocks and design
