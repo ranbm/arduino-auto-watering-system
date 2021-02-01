@@ -1,9 +1,10 @@
 # Arduino auto watering system
-Arduino project for plant watering by humidity levels, that includes a phone app that is connected by bluetooth
+Arduino project for plant watering by humidity levels, that includes a phone app that connects the Arduino board by bluetooth
 # Circuit skatch:
 ![alt text](<https://www.linkpicture.com/q/צילום-מסך-2021-02-01-ב-12.24.39.png>)
 
 # Components:
+1X Arduino UNO                                                                                                                                                                  
 2X ground humidity sensor                                                                                                                                                    
 1X air humidity and temperature sensor                                                                                                            
 1X solenoid valve                                                                                                                                                                  
